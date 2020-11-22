@@ -11,9 +11,9 @@ Current stage: working on minimum viable product
 MVP tasks complete: 
 >>Start project (11/7/2020)
 >B: Player Movement
+>C: Player Interaction + interactable item abstract class with test functionality
 
 MVP tasks to-do:
->C: Player Interaction + interactable item abstract class with test functionality
 >D: Player $ + HUD
 >>Milestone 1: Fully functional player (11/26/2020)
 >E: Randomized Rooms
