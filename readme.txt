@@ -12,10 +12,10 @@ MVP tasks complete:
 >>Start project (11/7/2020)
 >B: Player Movement
 >C: Player Interaction + interactable item abstract class with test functionality
-
-MVP tasks to-do:
 >D: Player $ + HUD
 >>Milestone 1: Fully functional player (11/26/2020)
+
+MVP tasks to-do:
 >E: Randomized Rooms
 >F: Room 1-10 progression with door and per-room salary + saving between rooms
 >>Milestone 2: Complete levels (12/3/2020)
