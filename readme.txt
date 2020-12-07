@@ -14,9 +14,9 @@ MVP tasks complete:
 >C: Player Interaction + interactable item abstract class with test functionality
 >D: Player $ + HUD
 >>Milestone 1: Fully functional player (11/26/2020)
+>E: Randomized Rooms
 
 MVP tasks to-do:
->E: Randomized Rooms
 >F: Room 1-10 progression with door and per-room salary + saving between rooms
 >>Milestone 2: Complete levels (12/3/2020)
 >A: List meta info (enemies, education, vehicles, items, stats)
@@ -31,3 +31,4 @@ K: Item pickups + Inventory
 L: Enemy Combat (including loss event), randomized enemy instances from class
 N: Debrief screens (for win or loss)
 >>Milestone 5: MVP complete (1/3/2021)
+
