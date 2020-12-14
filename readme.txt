@@ -16,9 +16,9 @@ MVP tasks complete:
 >>Milestone 1: Fully functional player (11/26/2020)
 >E: Randomized Rooms
 >F: Room 1-10 progression with door and per-room salary + saving between rooms
+>>Milestone 2: Complete levels (12/3/2020)
 
 MVP tasks to-do:
->>Milestone 2: Complete levels (12/3/2020)
 >A: List meta info (enemies, education, vehicles, items, stats)
 >G: Initial player stats assignment on room 1 + saving between rooms
 >>Milestone 3: Stats added (12/9/2020)
