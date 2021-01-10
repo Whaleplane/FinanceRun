@@ -21,13 +21,15 @@ MVP tasks complete:
 >G: Initial player stats assignment on room 1 + saving between rooms
 >>Milestone 3: Stats added (12/9/2020)
 
-MVP tasks to-do:
+MVP tasks in progress:
 >H: Vehicle menu + math + debt (with stat effect)
+
+MVP tasks to-do:
 >I: Education menu + math + debt (with salary effect)
 >M: Retirement screens + math
->>Milestone 4: Vehicles, Education, and Retirement (12/16/2020)
+>>Milestone 4: Vehicles, Education, and Retirement
 J: Wandering enemies
 K: Item pickups + Inventory
 L: Enemy Combat (including loss event), randomized enemy instances from class
 N: Debrief screens (for win or loss)
->>Milestone 5: MVP complete (1/3/2021)
+>>Milestone 5: MVP complete
