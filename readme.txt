@@ -7,8 +7,10 @@ Engine: Unreal Engine 4 (4.24.3)
 -----------------------------------------------------------------------------
 
 Current stage: working on minimum viable product
+All milestones must be completed by 4/18/2021, ~2.5 weeks of buffer
 
 MVP tasks complete: 
+---
 >>Start project (11/7/2020)
 >B: Player Movement
 >C: Player Interaction + interactable item abstract class with test functionality
@@ -21,15 +23,58 @@ MVP tasks complete:
 >G: Initial player stats assignment on room 1 + saving between rooms
 >>Milestone 3: Stats added (12/9/2020)
 
+
 MVP tasks in progress:
+---
 >H: Vehicle menu + math + debt (with stat effect)
 
+
 MVP tasks to-do:
+---
 >I: Education menu + math + debt (with salary effect)
 >M: Retirement screens + math
->>Milestone 4: Vehicles, Education, and Retirement
-J: Wandering enemies
-K: Item pickups + Inventory
-L: Enemy Combat (including loss event), randomized enemy instances from class
-N: Debrief screens (for win or loss)
->>Milestone 5: MVP complete
+>>Milestone 4: Vehicles, Education, and Retirement (1/18/2021)
+>J: Wandering enemies
+>K: Item pickups + Inventory
+>L: Enemy Combat (including loss event), randomized enemy instances from class
+>N: Debrief screens (for win or loss)
+>>Milestone 5: MVP complete (2/1/2021)
+
+
+Post-MVP tasks:
+---
+>A: Main Menu
+>B: Pause Menu
+>C: Settings Menu
+>D: UI Elements
+>>Milestone 6: Complete Menus (2/10/2021)
+>E: Obstacle Climbing
+>F: Obstacle Variety
+>>Milestone 7: Obstacle Adjustments (2/17/2021)
+>G: Hub + Money Saving
+>H: Upgrades with in-game effects
+>I: Cosmetic Upgrades with placeholder models 
+>>Milestone 8: Hub and Upgrades (3/1/2021)
+>J: Final Models
+>K: Final Textures
+>L: Final Animations
+>M: Final Sounds + Music
+>>Milestone 9: Graphics and Sound (3/12/2021)
+
+Publication tasks:
+---
+>A: Gather all screenshots, info and media for itch.io
+>B: Publish on itch.io
+>>Milestone 10: itch.io (3/15/2021)
+>C: Find criteria of Steam release
+>D: Add API for Steam (if necessary)
+>E: Gather all screenshots, info and media for Steam
+>F: Publish on Steam
+>>Milestone 11: Steam (3/22/2021)
+>G: Test Android port on emulator
+>H: Test Android port tethered or sideloaded
+>I: Find criteria of Google Play release
+>J: Add Google Play API (if necessary)
+>K: Gather all screenshots, info and media for Google Play
+>L: Publish on Google Play 
+>>Milestone 12: Google Play (4/1/2021)
