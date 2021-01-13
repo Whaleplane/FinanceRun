@@ -61,6 +61,7 @@ Post-MVP tasks:
 >M: Final Sounds + Music
 >>Milestone 9: Graphics and Sound (3/12/2021)
 
+
 Publication tasks:
 ---
 >A: Gather all screenshots, info and media for itch.io
