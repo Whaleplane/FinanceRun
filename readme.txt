@@ -27,7 +27,13 @@ MVP tasks complete:
 MVP tasks in progress:
 ---
 >H: Vehicle menu + math + debt (with stat effect)
-
+->Pull in vehicle price
+->Interest rate based on price, down payment
+->Monthly payment based on price, down payment, interest rate
+->Don't allow confirm without down payment entered
+->Modify and save player stat
+->Load player stat on begin play
+->Pause while menus are open
 
 MVP tasks to-do:
 ---
