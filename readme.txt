@@ -27,11 +27,11 @@ MVP tasks complete:
 MVP tasks in progress:
 ---
 >H: Vehicle menu + math + debt (with stat effect)
-->Remove money when confirmed
 ->Modify and save player stats (payment and stat)
 ->Load player payment stat on begin play
 ->Remove payment once per room
 ->Pause while menus are open
+->Save and load money through player instead of level BP
 
 MVP tasks to-do:
 ---
@@ -51,13 +51,14 @@ Post-MVP tasks:
 >B: Pause Menu
 >C: Settings Menu
 >D: UI Elements
+>O: Random job selection
 >>Milestone 6: Complete Menus (2/10/2021)
 >E: Obstacle Climbing
 >F: Obstacle Variety
 >>Milestone 7: Obstacle Adjustments (2/17/2021)
 >G: Hub + Money Saving
 >H: Upgrades with in-game effects
->I: Cosmetic Upgrades with placeholder models 
+>I: Cosmetic Upgrades with placeholder models
 >>Milestone 8: Hub and Upgrades (3/1/2021)
 >J: Final Models
 >K: Final Textures
