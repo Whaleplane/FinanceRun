@@ -31,13 +31,20 @@ MVP tasks in progress:
 ->Load player payment stat on begin play
 ->Remove payment once per room
 ->Pause while menus are open
-->Save and load money through player instead of level BP
+>I: Education menu + math + debt (with salary effect)
+->Education info screens
+->Education choice screen
+->Education payment screen + math functionality
+->Save/load education choice salary increase, per room payment
+>M: Retirement screens + math
+->Write out retirement math
+->Retirement info screens
+->Retirement math screen
+->Win/loss screen, exit game
+>>Milestone 4: Vehicles, Education, and Retirement (1/18/2021)
 
 MVP tasks to-do:
 ---
->I: Education menu + math + debt (with salary effect)
->M: Retirement screens + math
->>Milestone 4: Vehicles, Education, and Retirement (1/18/2021)
 >J: Wandering enemies
 >K: Item pickups + Inventory
 >L: Enemy Combat (including loss event), randomized enemy instances from class
@@ -51,7 +58,7 @@ Post-MVP tasks:
 >B: Pause Menu
 >C: Settings Menu
 >D: UI Elements
->O: Random job selection
+>O: Random job selection and education available
 >>Milestone 6: Complete Menus (2/10/2021)
 >E: Obstacle Climbing
 >F: Obstacle Variety
