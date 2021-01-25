@@ -14,31 +14,13 @@ Data being saved:
 pMoney = player money
 pVehicle = player vehicle stat
 vPayment = vehicle payment per-room
-
-Tasks complete:
----
->>Start project (11/7/2020)
->>Milestone 1: Fully functional player (11/26/2020)
-	>B: Player Movement
-	>C: Player Interaction + interactable item abstract class with test functionality
-	>D: Player $ + HUD
->>Milestone 2: Complete levels (12/3/2020)
-	>E: Randomized Rooms
-	>F: Room 1-10 progression with door and per-room salary + saving between rooms
->>Milestone 3: Stats added (12/9/2020)
-	>A: List meta info (enemies, education, vehicles, items, stats)
-	>G: Initial player stats assignment on room 1 + saving between rooms
->>Milestone 4: Vehicles, Education, and Retirement (1/18/2021)
-	>H: Vehicle menu + math + debt (with stat effect)
+vStat = vehicle stat
+ePayment = education payment per-room
+eIncrease = player salary increase per-room
 
 Tasks in progress:
 ---
 >>Milestone 4: Vehicles, Education, and Retirement (1/18/2021)
-	>I: Education menu + math + debt (with salary effect)
-		-->Education info screens
-		-->Education choice screen
-		-->Education payment screen + math functionality
-		-->Save/load education choice salary increase, per room payment
 	>M: Retirement screens + math
 		-->Write out retirement math
 		-->Retirement info screens
@@ -58,6 +40,7 @@ Tasks to-do:
 	>C: Settings Menu
 	>D: UI Elements (incl. loading screen)
 	>O: Random job selection w/ education choices
+	>P: Rundown of per-room payments and increase in intros
 >>Milestone 7: Obstacle Adjustments (2/17/2021)
 	>E: Obstacle Climbing
 	>F: Obstacle Variety
@@ -95,3 +78,20 @@ Post-release update tasks:
 	>C: Log journal - UI piece to show recent transactions
 	>D: Infinite run mode on-paper details
 	>E: Implement infinite run mode
+	
+Tasks complete:
+---
+>>Start project (11/7/2020)
+>>Milestone 1: Fully functional player (11/26/2020)
+	>B: Player Movement
+	>C: Player Interaction + interactable item abstract class with test functionality
+	>D: Player $ + HUD
+>>Milestone 2: Complete levels (12/3/2020)
+	>E: Randomized Rooms
+	>F: Room 1-10 progression with door and per-room salary + saving between rooms
+>>Milestone 3: Stats added (12/9/2020)
+	>A: List meta info (enemies, education, vehicles, items, stats)
+	>G: Initial player stats assignment on room 1 + saving between rooms
+>>Milestone 4: Vehicles, Education, and Retirement (1/18/2021)
+	>H: Vehicle menu + math + debt (with stat effect)
+	>I: Education menu + math + debt (with salary effect)
