@@ -20,54 +20,61 @@ eIncrease = player salary increase per-room
 
 Tasks in progress:
 ---
->>Milestone 4: Vehicles, Education, and Retirement (1/18/2021)
+>>Milestone 4: Vehicles, Education, and Retirement (2/1/2021)
 	>M: Retirement screens + math
-		-->Write out retirement math
-		-->Retirement info screens
 		-->Retirement math screen
 		-->Win/loss screen, exit game
 
 Tasks to-do:
 ---
->>Milestone 5: MVP complete (2/1/2021)
-	>J: Wandering enemies
+>>Milestone 5: MVP complete (2/14/2021)
+	>J: Wandering/chasing enemies
 	>K: Item pickups + Inventory
 	>L: Enemy Combat (including loss event), randomized enemy instances from class
 	>N: Debrief screens (for win or loss)
->>Milestone 6: Complete Menus (2/10/2021)
+>>Milestone 6: Complete Menus (2/21/2021)
 	>A: Main Menu
 	>B: Pause Menu
 	>C: Settings Menu
 	>D: UI Elements (incl. loading screen)
 	>O: Random job selection w/ education choices
 	>P: Rundown of per-room payments and increase in intros
->>Milestone 7: Obstacle Adjustments (2/17/2021)
+>>Milestone 7: Obstacle Adjustments (2/25/2021)
 	>E: Obstacle Climbing
 	>F: Obstacle Variety
->>Milestone 8: Hub and Upgrades (3/1/2021)
+>>Milestone 8: Hub and Upgrades (3/5/2021)
 	>G: Hub + Money Saving
 	>H: Upgrades with in-game effects
 	>I: Cosmetic Upgrades with placeholder models
->>Milestone 9: Graphics and Sound (3/12/2021)
+>>Milestone 9: Graphics and Sound (3/15/2021)
 	>J: Final Models
 	>K: Final Textures
 	>L: Final Animations
 	>M: Final Sounds + Music
->>Milestone 10: itch.io (3/15/2021)
+>>Milestone 10: itch.io PC (3/20/2021)
 	>A: Gather all screenshots, info and media for itch.io
 	>B: Publish on itch.io
->>Milestone 11: Steam (3/22/2021)
+>>Milestone 11: itch.io Android (4/1/2021)
+	>C: Test Android port on emulator
+	>D: Test Android port tethered or sideloaded
+
+-
+At this point, the game will need to be evaluated and tested,
+I may decide that more post-graudation content and polish is 
+required for Steam and Google Play. Itch.io is the minimum release
+for class project purposes.
+-
+
+>>Milestone 11: Steam
 	>C: Find criteria of Steam release
 	>D: Add API for Steam (if necessary)
 	>E: Gather all screenshots, info and media for Steam
 	>F: Publish on Steam
->>Milestone 12: Google Play (4/1/2021)
-	>G: Test Android port on emulator
-	>H: Test Android port tethered or sideloaded
-	>I: Find criteria of Google Play release
-	>J: Add Google Play API (if necessary)
-	>K: Gather all screenshots, info and media for Google Play
-	>L: Publish on Google Play
+>>Milestone 12: Google Play
+	>G: Find criteria of Google Play release
+	>H: Add Google Play API (if necessary)
+	>I: Gather all screenshots, info and media for Google Play
+	>J: Publish on Google Play
 	
 Post-release update tasks:
 ---
