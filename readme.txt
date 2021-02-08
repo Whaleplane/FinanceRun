@@ -13,17 +13,15 @@ Last milestone scheduled for 4/1/2021, ~2.5 weeks of buffer
 Data being saved:
 pMoney = player money
 pVehicle = player vehicle stat
+pTotalEarned = total money the player has earned
 vPayment = vehicle payment per-room
-vStat = vehicle stat
 ePayment = education payment per-room
 eIncrease = player salary increase per-room
 
 Tasks in progress:
 ---
->>Milestone 4: Vehicles, Education, and Retirement (2/1/2021)
-	>M: Retirement screens + math
-		-->Retirement math screen
-		-->Win/loss screen, exit game
+
+
 
 Tasks to-do:
 ---
@@ -88,17 +86,18 @@ Post-release update tasks:
 	
 Tasks complete:
 ---
->>Start project (11/7/2020)
->>Milestone 1: Fully functional player (11/26/2020)
+>>Milestone 1: Fully functional player
 	>B: Player Movement
 	>C: Player Interaction + interactable item abstract class with test functionality
 	>D: Player $ + HUD
->>Milestone 2: Complete levels (12/3/2020)
+>>Milestone 2: Complete levels
 	>E: Randomized Rooms
 	>F: Room 1-10 progression with door and per-room salary + saving between rooms
->>Milestone 3: Stats added (12/9/2020)
+>>Milestone 3: Stats added 
 	>A: List meta info (enemies, education, vehicles, items, stats)
 	>G: Initial player stats assignment on room 1 + saving between rooms
->>Milestone 4: Vehicles, Education, and Retirement (1/18/2021)
+>>Milestone 4: Vehicles, Education, and Retirement 
 	>H: Vehicle menu + math + debt (with stat effect)
 	>I: Education menu + math + debt (with salary effect)
+>>Milestone 4: Vehicles, Education, and Retirement 
+	>M: Retirement screens + math
