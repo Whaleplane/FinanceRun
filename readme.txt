@@ -20,16 +20,19 @@ eIncrease = player salary increase per-room
 
 Tasks in progress:
 ---
-
-
+>>Milestone 5: MVP complete (2/14/2021)
+	>J: Wandering/chasing enemies
+		-Wander state task
+		-Chase state entry
+		-Chase state task
+		-Combat state entry
+		-Combat state task
 
 Tasks to-do:
 ---
 >>Milestone 5: MVP complete (2/14/2021)
-	>J: Wandering/chasing enemies
 	>K: Item pickups + Inventory
 	>L: Enemy Combat (including loss event), randomized enemy instances from class
-	>N: Debrief screens (for win or loss)
 >>Milestone 6: Complete Menus (2/21/2021)
 	>A: Main Menu
 	>B: Pause Menu
@@ -99,5 +102,4 @@ Tasks complete:
 >>Milestone 4: Vehicles, Education, and Retirement 
 	>H: Vehicle menu + math + debt (with stat effect)
 	>I: Education menu + math + debt (with salary effect)
->>Milestone 4: Vehicles, Education, and Retirement 
 	>M: Retirement screens + math
