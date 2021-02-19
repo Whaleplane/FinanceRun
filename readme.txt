@@ -20,9 +20,8 @@ eIncrease = player salary increase per-room
 
 Tasks in progress:
 ---
->>Milestone 5: MVP complete (2/14/2021)
+>>Milestone 5: MVP complete (2/28/2021)
 	>J: Wandering/chasing enemies
-		-Wander state task
 		-Chase state entry
 		-Chase state task
 		-Combat state entry
@@ -30,32 +29,32 @@ Tasks in progress:
 
 Tasks to-do:
 ---
->>Milestone 5: MVP complete (2/14/2021)
+>>Milestone 5: MVP complete (2/28/2021)
 	>K: Item pickups + Inventory
 	>L: Enemy Combat (including loss event), randomized enemy instances from class
->>Milestone 6: Complete Menus (2/21/2021)
+>>Milestone 6: Complete Menus (3/9/2021)
 	>A: Main Menu
 	>B: Pause Menu
 	>C: Settings Menu
 	>D: UI Elements (incl. loading screen)
 	>O: Random job selection w/ education choices
 	>P: Rundown of per-room payments and increase in intros
->>Milestone 7: Obstacle Adjustments (2/25/2021)
+>>Milestone 7: Obstacle Adjustments (3/12/2021)
 	>E: Obstacle Climbing
 	>F: Obstacle Variety
->>Milestone 8: Hub and Upgrades (3/5/2021)
+>>Milestone 8: Hub and Upgrades (3/19/2021)
 	>G: Hub + Money Saving
 	>H: Upgrades with in-game effects
 	>I: Cosmetic Upgrades with placeholder models
->>Milestone 9: Graphics and Sound (3/15/2021)
+>>Milestone 9: Graphics and Sound (4/4/2021)
 	>J: Final Models
 	>K: Final Textures
 	>L: Final Animations
 	>M: Final Sounds + Music
->>Milestone 10: itch.io PC (3/20/2021)
+>>Milestone 10: itch.io PC (4/9/2021)
 	>A: Gather all screenshots, info and media for itch.io
 	>B: Publish on itch.io
->>Milestone 11: itch.io Android (4/1/2021)
+>>Milestone 11: itch.io Android (4/18/2021)
 	>C: Test Android port on emulator
 	>D: Test Android port tethered or sideloaded
 
