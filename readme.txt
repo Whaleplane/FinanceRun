@@ -22,10 +22,7 @@ Tasks in progress:
 ---
 >>Milestone 5: MVP complete (2/28/2021)
 	>J: Wandering/chasing enemies
-		-Chase state entry
-		-Chase state task
-		-Combat state entry
-		-Combat state task
+		-Fix player distance check (swap logic to service, check if target is set, move to target)
 
 Tasks to-do:
 ---
