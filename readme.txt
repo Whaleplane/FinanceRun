@@ -22,7 +22,10 @@ Tasks in progress:
 ---
 >>Milestone 5: MVP complete (2/28/2021)
 	>J: Wandering/chasing enemies
-		-Fix player distance check (swap logic to service, check if target is set, move to target)
+		-On chase sequence: is target actor set decorator
+		-On combat: in attack range decorator
+		-In enemy BP: add AI perception
+			-on target perception updated: if percieved actor is player, update target actor
 
 Tasks to-do:
 ---
