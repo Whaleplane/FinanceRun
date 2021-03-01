@@ -22,16 +22,15 @@ Tasks in progress:
 ---
 >>Milestone 5: MVP complete (2/28/2021)
 	>J: Wandering/chasing enemies
-		-On chase sequence: is target actor set decorator
-		-On combat: in attack range decorator
 		-In enemy BP: add AI perception
 			-on target perception updated: if percieved actor is player, update target actor
+		-On combat: in attack range decorator
 
 Tasks to-do:
 ---
 >>Milestone 5: MVP complete (2/28/2021)
-	>K: Item pickups + Inventory
 	>L: Enemy Combat (including loss event), randomized enemy instances from class
+	>K: Item pickups + Inventory
 >>Milestone 6: Complete Menus (3/9/2021)
 	>A: Main Menu
 	>B: Pause Menu
