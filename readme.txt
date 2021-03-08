@@ -25,11 +25,22 @@ Minor Bugs:
 
 Tasks in progress:
 ---
-
+>>Milestone 5: MVP complete (2/28/2021)
+	>L: Enemy Combat (including loss event), randomized enemy instances from class
+		-Lock player and enemy movement (also remove player cursor), characters face each other, add temp combat HUD and set focus
+		-Swap camera to combat mode
+		-Temp unlock from combat mode on "win" (delete enemy, unlock player movement, show cursor, swap camera back)
+		-Show player stats on HUD
+		-Show enemy stats on HUD
+		-R/P/S buttons apply damage to enemy, enemy can be defeated when HP runs out
+		-R/P/S buttons have enemy defense response (shown on HUD), damage applied to player when wrong
+		-Add enemy types with different stats
+		-Weight R/P/S buttons based on enemy types
+		-Decide on and update R/P/S finance names
+		
 Tasks to-do:
 ---
 >>Milestone 5: MVP complete (2/28/2021)
-	>L: Enemy Combat (including loss event), randomized enemy instances from class
 	>K: Item pickups + Inventory
 >>Milestone 6: Complete Menus (3/9/2021)
 	>A: Main Menu
