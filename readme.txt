@@ -8,7 +8,6 @@ Engine: Unreal Engine 4 (4.24.3)
 
 Current stage: working on minimum viable product
 All milestones must be completed by 4/18/2021
-Last milestone scheduled for 4/1/2021, ~2.5 weeks of buffer
 
 Data being saved:
 pMoney = player money
@@ -18,13 +17,14 @@ vPayment = vehicle payment per-room
 ePayment = education payment per-room
 eIncrease = player salary increase per-room
 
+Game Breaking Bugs:
+---
+
+Minor Bugs:
+---
+
 Tasks in progress:
 ---
->>Milestone 5: MVP complete (2/28/2021)
-	>J: Wandering/chasing enemies
-		-In enemy BP: add AI perception
-			-on target perception updated: if percieved actor is player, update target actor
-		-On combat: in attack range decorator
 
 Tasks to-do:
 ---
@@ -59,7 +59,7 @@ Tasks to-do:
 
 -
 At this point, the game will need to be evaluated and tested,
-I may decide that more post-graudation content and polish is 
+I may decide that more post-graduation content and polish is 
 required for Steam and Google Play. Itch.io is the minimum release
 for class project purposes.
 -
@@ -101,3 +101,5 @@ Tasks complete:
 	>H: Vehicle menu + math + debt (with stat effect)
 	>I: Education menu + math + debt (with salary effect)
 	>M: Retirement screens + math
+>>Milestone 5: MVP complete
+	>J: Wandering/chasing enemies
