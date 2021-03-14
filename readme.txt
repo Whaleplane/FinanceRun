@@ -28,7 +28,6 @@ Tasks in progress:
 ---
 >>Milestone 5: MVP complete (2/28/2021)
 	>L: Enemy Combat (including loss event), randomized enemy instances from class
-		-Show player stats on HUD
 		-Show enemy stats on HUD
 		-R/P/S buttons apply damage to enemy, enemy can be defeated when HP runs out
 		-R/P/S buttons have enemy defense response (shown on HUD), damage applied to player when wrong
