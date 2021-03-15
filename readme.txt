@@ -23,13 +23,12 @@ Game Breaking Bugs:
 Minor Bugs:
 ---
 >Cursor type does not change to normal mouse when combat HUD appears
+>Player sometimes too close to enemy (make a "player stand" position in the enemy BP and move the player to it)
 
 Tasks in progress:
 ---
 >>Milestone 5: MVP complete (2/28/2021)
 	>L: Enemy Combat (including loss event), randomized enemy instances from class
-		-Show enemy stats on HUD
-		-R/P/S buttons apply damage to enemy, enemy can be defeated when HP runs out
 		-R/P/S buttons have enemy defense response (shown on HUD), damage applied to player when wrong
 		-Add enemy types with different stats
 		-Weight R/P/S buttons based on enemy types
