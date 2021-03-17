@@ -29,7 +29,6 @@ Tasks in progress:
 ---
 >>Milestone 5: MVP complete (2/28/2021)
 	>L: Enemy Combat (including loss event), randomized enemy instances from class
-		-R/P/S buttons have enemy defense response (shown on HUD), damage applied to player when wrong
 		-Add enemy types with different stats
 		-Weight R/P/S buttons based on enemy types
 		-Decide on and update R/P/S finance names
