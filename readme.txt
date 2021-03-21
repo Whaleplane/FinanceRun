@@ -17,21 +17,12 @@ vPayment = vehicle payment per-room
 ePayment = education payment per-room
 eIncrease = player salary increase per-room
 
-Game Breaking Bugs:
----
-
-Minor Bugs:
----
->Cursor type does not change to normal mouse when combat HUD appears
->Player sometimes too close to enemy (make a "player stand" position in the enemy BP and move the player to it)
-
 Tasks in progress:
 ---
 >>Milestone 5: MVP complete (3/21/2021)
-	>K: Item pickups (reworked)
-		-Random item objects on ground
+	>K: Item pickups
 		-All stats loaded/reset at begin play
-		-Items increment stats (based on rarity) and save stat
+		-Items increment stats (based on randomized effect) and save stat
 
 Tasks to-do:
 ---
@@ -45,7 +36,7 @@ Tasks to-do:
 		-Color text shown on hit/miss during combat
 	>2O: Random job selection w/ education choices
 	>2P: Rundown of per-room payments and increase in intros
->>Milestone 7: Obstacle Adjustments (4/31/2021)
+>>Milestone 7: Obstacle Adjustments (3/31/2021)
 	>2E: Obstacle Climbing
 	>2F: Obstacle Variety
 >>Milestone 8: Hub and Upgrades (4/4/2021)
@@ -74,8 +65,9 @@ Post-graduation update tasks:
 	>4C: Log journal - UI piece to show recent transactions
 	>4D: Infinite run mode on-paper details
 	>4E: Implement infinite run mode
->>Milestone 14: Expanded graphics
+>>Milestone 14: Expanded graphics and extras
 	>4F: Weather and lighting changes per level
+	>4G: Items can spawn on base blocks
 >>Milestone 15: Steam
 	>5C: Find criteria of Steam release
 	>5D: Add API for Steam (if necessary)
@@ -87,22 +79,10 @@ Post-graduation update tasks:
 	>5I: Gather all screenshots, info and media for Google Play
 	>5J: Publish on Google Play
 	
-Tasks complete:
+Known Issues:
 ---
->>Milestone 1: Fully functional player
-	>B: Player Movement
-	>C: Player Interaction + interactable item abstract class with test functionality
-	>D: Player $ + HUD
->>Milestone 2: Complete levels
-	>E: Randomized Rooms
-	>F: Room 1-10 progression with door and per-room salary + saving between rooms
->>Milestone 3: Stats added 
-	>A: List meta info (enemies, education, vehicles, items, stats)
-	>G: Initial player stats assignment on room 1 + saving between rooms
->>Milestone 4: Vehicles, Education, and Retirement 
-	>H: Vehicle menu + math + debt (with stat effect)
-	>I: Education menu + math + debt (with salary effect)
-	>M: Retirement screens + math
->>Milestone 5: MVP complete
-	>J: Wandering/chasing enemies
-	>L: Enemy Combat (including loss event), randomized enemy instances from class
+>>Cursor type does not change to normal mouse when combat HUD appears
+>>Player sometimes too close to enemy
+	>Make a "player stand" position in the enemy BP and move the player to it
+>>Another enemy can attack the player while already in combat
+>>Player AI can get stuck when surrounded by blocks on all 3 sides
