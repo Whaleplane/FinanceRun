@@ -12,6 +12,7 @@ All milestones must be completed by 4/18/2021
 Data being saved:
 pMoney = player money
 pPreparation = player preparation stat
+pKnowledge = player knowledge stat
 pTotalEarned = total money the player has earned
 vPayment = vehicle payment per-room
 ePayment = education payment per-room
@@ -19,23 +20,20 @@ eIncrease = player salary increase per-room
 
 Tasks in progress:
 ---
->>Milestone 5: MVP complete (3/21/2021)
-	>K: Item pickups
-		-All stats loaded/reset at begin play
-		-Items increment stats (based on randomized effect) and save stat
 
 Tasks to-do:
 ---
->>Full gameplay test of MVP
+>>Full gameplay test of MVP (3/22/2021)
 >>Milestone 6: Complete Menus (3/28/2021)
+	>2O: Random job selection w/ education choices
+	>2P: Rundown of per-room payments and increase in intros
 	>2A: Main Menu
 	>2B: Pause Menu
 	>2C: Settings Menu
 	>2D: UI Elements (incl. loading screen)
 		-R/P/S rules on combat screen for reference
+		-Enemy name on screen during combat
 		-Color text shown on hit/miss during combat
-	>2O: Random job selection w/ education choices
-	>2P: Rundown of per-room payments and increase in intros
 >>Milestone 7: Obstacle Adjustments (3/31/2021)
 	>2E: Obstacle Climbing
 	>2F: Obstacle Variety
