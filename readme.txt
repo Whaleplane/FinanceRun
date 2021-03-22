@@ -30,7 +30,7 @@ Tasks in progress:
 		-enemy can spawn on top of blocks
 	>I3: Enemy touchup
 		-Sometimes 2 hits are removed from an enemy
-		-Speed up enemies
+		~Removed print from wander, fixed pickup issue, increased enemy speed, fixed 2-hit issue
 	>I4: Vehicle purchase fix (not adding to preparation stat)
 	>I5: Pickup fix (some not picking up)
 
@@ -93,7 +93,7 @@ Post-graduation update tasks:
 	
 Known High Priority Issues:
 ---
-
+>>Player does not immediately lose game when going negative in combat
 
 Know Low Priority Issues:
 ---
