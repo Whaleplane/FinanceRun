@@ -20,20 +20,34 @@ eIncrease = player salary increase per-room
 
 Tasks in progress:
 ---
+>>Fix issues (3/22/2021)
+	>I1: Combat camera adjustment	
+		-"player stand" position in enemy BP, lock player to it
+		-When in combat, remove blocks that touch line trace on enemy camera (make invisible)
+		-Make invisible blocks visible when combat ends
+	>I2: Nav mesh/enemy spawning issue
+		-Player can get stuck on nav mesh
+		-enemy can spawn on top of blocks
+	>I3: Enemy touchup
+		-Sometimes 2 hits are removed from an enemy
+		-Speed up enemies
+	>I4: Vehicle purchase fix (not adding to preparation stat)
+	>I5: Pickup fix (some not picking up)
 
 Tasks to-do:
 ---
->>Full gameplay test of MVP (3/22/2021)
 >>Milestone 6: Complete Menus (3/28/2021)
 	>2O: Random job selection w/ education choices
 	>2P: Rundown of per-room payments and increase in intros
 	>2A: Main Menu
 	>2B: Pause Menu
 	>2C: Settings Menu
-	>2D: UI Elements (incl. loading screen)
+	>2E: Extra menu parts
 		-R/P/S rules on combat screen for reference
 		-Enemy name on screen during combat
 		-Color text shown on hit/miss during combat
+		-Show salary increase on education menu
+	>2D: Graphical UI Elements (incl. loading screen)
 >>Milestone 7: Obstacle Adjustments (3/31/2021)
 	>2E: Obstacle Climbing
 	>2F: Obstacle Variety
@@ -77,10 +91,12 @@ Post-graduation update tasks:
 	>5I: Gather all screenshots, info and media for Google Play
 	>5J: Publish on Google Play
 	
-Known Issues:
+Known High Priority Issues:
 ---
->>Cursor type does not change to normal mouse when combat HUD appears
->>Player sometimes too close to enemy
-	>Make a "player stand" position in the enemy BP and move the player to it
->>Another enemy can attack the player while already in combat
->>Player AI can get stuck when surrounded by blocks on all 3 sides
+
+
+Know Low Priority Issues:
+---
+>>Cursor type does not change to normal mouse when combat HUD appears 
+>>Stats HUD overlaps with popups
+>>Enemies float during popup
