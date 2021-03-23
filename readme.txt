@@ -21,18 +21,14 @@ eIncrease = player salary increase per-room
 Tasks in progress:
 ---
 >>Fix issues (3/22/2021)
+	>I4: Vehicle purchase fix (not adding to preparation stat)
+	>I2: Nav mesh/enemy spawning issue
+		-Player can get stuck on nav mesh
+		-enemy can spawn on top of blocks
 	>I1: Combat camera adjustment	
 		-"player stand" position in enemy BP, lock player to it
 		-When in combat, remove blocks that touch line trace on enemy camera (make invisible)
 		-Make invisible blocks visible when combat ends
-	>I2: Nav mesh/enemy spawning issue
-		-Player can get stuck on nav mesh
-		-enemy can spawn on top of blocks
-	>I3: Enemy touchup
-		-Sometimes 2 hits are removed from an enemy
-		~Removed print from wander, fixed pickup issue, increased enemy speed, fixed 2-hit issue
-	>I4: Vehicle purchase fix (not adding to preparation stat)
-	>I5: Pickup fix (some not picking up)
 
 Tasks to-do:
 ---
