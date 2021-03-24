@@ -20,14 +20,6 @@ eIncrease = player salary increase per-room
 
 Tasks in progress:
 ---
->>Fix issues (3/22/2021)
-	>I2: Nav mesh/enemy spawning issue
-		-Set max step up height to default (32) on all levels
-		-Remove blocks where enemies spawn
-	>I1: Combat camera adjustment	
-		-"player stand" position in enemy BP, lock player to it
-		-When in combat, remove blocks that touch line trace on enemy camera (make invisible)
-		-Make invisible blocks visible when combat ends
 
 Tasks to-do:
 ---
@@ -95,3 +87,4 @@ Know Low Priority Issues:
 >>Cursor type does not change to normal mouse when combat HUD appears 
 >>Stats HUD overlaps with popups
 >>Enemies float during popup
+>>Camera can sometimes overlap blocks and cause issues (make blocks around combat invisible, set player position on start)
