@@ -22,13 +22,12 @@ Tasks in progress:
 ---
 >>Milestone 6: Complete Menus (3/28/2021)
 	>2O: Random job selection w/ education choices
-		-Create struct for jobs list
-		-Add salary and education choice cost/increase to each job
-		-Base per-room salary on struct
-		-Base education cost on struct
-		-Base salary increase on struct
+		-Base per-room salary on data table
+		-Base education cost on data table
+		-Base salary increase on data table
+		-Disable reject button if education is required
+		-Show (required) next to "Increase: 0" if education is required
 	>2P: Rundown of per-room payments and increase in intros
-		
 	>2C: Options Menu
 		-Audio volume
 		-General video quality
@@ -86,6 +85,7 @@ Post-graduation update tasks:
 >>Milestone 14: Expanded graphics and extras
 	>4F: Weather and lighting changes per level
 	>4G: Items can spawn on base blocks
+	>4H: Individual selectable campaigns for each job
 >>Milestone 15: Steam
 	>5C: Find criteria of Steam release
 	>5D: Add API for Steam (if necessary)
