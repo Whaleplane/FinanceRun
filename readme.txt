@@ -20,21 +20,40 @@ eIncrease = player salary increase per-room
 
 Tasks in progress:
 ---
-
-Tasks to-do:
----
 >>Milestone 6: Complete Menus (3/28/2021)
 	>2O: Random job selection w/ education choices
+		-Create struct for jobs list
+		-Add salary and education choice cost/increase to each job
+		-Base per-room salary on struct
+		-Base education cost on struct
+		-Base salary increase on struct
 	>2P: Rundown of per-room payments and increase in intros
+		
+	>2C: Options Menu
+		-Audio volume
+		-General video quality
+		-Video resolution/screen size
 	>2A: Main Menu
+		-Start game
+		-Options
+		-Quit
 	>2B: Pause Menu
-	>2C: Settings Menu
+		-Pause button on-screen
+		-Resume
+		-Options
+		-Main Menu
 	>2E: Extra menu parts
 		-R/P/S rules on combat screen for reference
 		-Enemy name on screen during combat
 		-Color text shown on hit/miss during combat
-		-Show salary increase on education menu
+		-Show potential salary increase on education menu
+		-Show salary per-room on popup
+		-Show additional salary increase on popup
+		-Show per-room payments on popup
 	>2D: Graphical UI Elements (incl. loading screen)
+	
+Tasks to-do:
+---
 >>Milestone 7: Obstacle Adjustments (3/31/2021)
 	>2E: Obstacle Climbing
 	>2F: Obstacle Variety
