@@ -13,6 +13,7 @@ Data being saved:
 pMoney = player money
 pPreparation = player preparation stat
 pKnowledge = player knowledge stat
+pSkill = player skill stat
 pTotalEarned = total money the player has earned
 vPayment = vehicle payment per-room
 ePayment = education payment per-room
@@ -22,7 +23,6 @@ Tasks in progress:
 ---
 >>Milestone 6: Complete Menus (3/28/2021)
 	>2O: Random job selection w/ education choices
-		-Base per-room salary on data table
 		-Base education cost on data table
 		-Base salary increase on data table
 		-Disable reject button if education is required
