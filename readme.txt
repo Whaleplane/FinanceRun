@@ -22,12 +22,6 @@ eIncrease = player salary increase per-room
 Tasks in progress:
 ---
 >>Milestone 6: Complete Menus (3/28/2021)
-	>2O: Random job selection w/ education choices
-		-Base education cost on data table
-		-Base salary increase on data table
-		-Disable reject button if education is required
-		-Show (required) next to "Increase: 0" if education is required
-	>2P: Rundown of per-room payments and increase in intros
 	>2C: Options Menu
 		-Audio volume
 		-General video quality
@@ -41,15 +35,19 @@ Tasks in progress:
 		-Resume
 		-Options
 		-Main Menu
-	>2E: Extra menu parts
+	>2E: Update UI text
 		-R/P/S rules on combat screen for reference
 		-Enemy name on screen during combat
 		-Color text shown on hit/miss during combat
-		-Show potential salary increase on education menu
-		-Show salary per-room on popup
-		-Show additional salary increase on popup
-		-Show per-room payments on popup
-	>2D: Graphical UI Elements (incl. loading screen)
+		-Rewrite all popup menu text:
+			-Show name of education on education menu
+			-Show potential salary increase on education menu
+				-Show (required) next to "Increase: 0" if education is required
+			-Show job name on intro popup
+			-Show additional salary increase on start popup
+			-Show per-room payments (vehicle, education) on popup
+	>2D: Add UI graphics
+		-Loading screen
 	
 Tasks to-do:
 ---
@@ -78,8 +76,8 @@ Post-graduation update tasks:
 >>Milestone 12: Expanded controls
 	>4A: WASD/Controller support for gameplay
 	>4B: Controller support for menu and UI
+	>4C: Show recent transactions as a pop-up above money
 >>Milestone 13: Infinite run
-	>4C: Log journal - UI piece to show recent transactions
 	>4D: Infinite run mode on-paper details
 	>4E: Implement infinite run mode
 >>Milestone 14: Expanded graphics and extras
