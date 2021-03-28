@@ -23,17 +23,20 @@ Tasks in progress:
 ---
 >>Milestone 6: Complete Menus (3/28/2021)
 	>2C: Options Menu
-		-Audio volume
-		-General video quality
-		-Video resolution/screen size
+		-Set video quality commands when each button is selected
+		-Save selected quality option and disable that button
+		-Query system to populate available resolution list
+		-Set resolution when selected
+		-Back button removes widget from screen
 	>2A: Main Menu
 		-Start game
 		-Options
 		-Quit
+		-Loading screen
 	>2B: Pause Menu
 		-Pause button on-screen
-		-Resume
-		-Options
+		-Resume (set/check if game was already paused before unpausing)
+		-Options (+remove test input)
 		-Main Menu
 	>2E: Update UI text
 		-R/P/S rules on combat screen for reference
@@ -47,7 +50,6 @@ Tasks in progress:
 			-Show additional salary increase on start popup
 			-Show per-room payments (vehicle, education) on popup
 	>2D: Add UI graphics
-		-Loading screen
 	
 Tasks to-do:
 ---
