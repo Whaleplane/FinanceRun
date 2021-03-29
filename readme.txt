@@ -23,11 +23,6 @@ sQuality = video quality setting
 Tasks in progress:
 ---
 >>Milestone 6: Complete Menus (3/28/2021)
-	>2B: Pause Menu
-		-Pause button on-screen
-		-Resume (set/check if game was already paused before unpausing)
-		-Options (+remove test input)
-		-Main Menu
 	>2E: Update UI text
 		-R/P/S rules on combat screen for reference
 		-Enemy name on screen during combat
@@ -40,6 +35,7 @@ Tasks in progress:
 			-Show additional salary increase on start popup
 			-Show per-room payments (vehicle, education) on popup
 	>2D: Add UI graphics
+		-Add black background to popups
 	
 Tasks to-do:
 ---
@@ -68,6 +64,7 @@ Post-graduation update tasks:
 	>2G: Hub + Money Saving
 	>2H: Upgrades with in-game effects
 	>2I: Cosmetic Upgrades with placeholder models
+	>2J: Confirm quit/main menu
 >>Milestone 12: Expanded controls
 	>4A: WASD/Controller support for gameplay
 	>4B: Controller support for menu and UI
