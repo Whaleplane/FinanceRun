@@ -23,9 +23,6 @@ sQuality = video quality setting
 Tasks in progress:
 ---
 >>Milestone 6: Complete Menus (3/28/2021)
-	>2C: Options Menu
-		-Query system to populate available resolution list
-		-Set resolution when selected
 	>2A: Main Menu
 		-Start game
 		-Options
@@ -77,6 +74,7 @@ Post-graduation update tasks:
 	>4A: WASD/Controller support for gameplay
 	>4B: Controller support for menu and UI
 	>4C: Show recent transactions as a pop-up above money
+	>4I: Expanded video settings (individual graphics, resolution, etc)
 >>Milestone 13: Infinite run
 	>4D: Infinite run mode on-paper details
 	>4E: Implement infinite run mode
