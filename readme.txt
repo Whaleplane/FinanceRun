@@ -51,25 +51,25 @@ Tasks to-do:
 >>Milestone 7: Obstacle Adjustments (3/31/2021)
 	>2E: Obstacle Climbing
 	>2F: Obstacle Variety
->>Milestone 8: Hub and Upgrades (4/4/2021)
-	>2G: Hub + Money Saving
-	>2H: Upgrades with in-game effects
-	>2I: Cosmetic Upgrades with placeholder models
->>Milestone 9: Graphics and Sound (4/14/2021)
+>>Milestone 8: Graphics and Sound (4/14/2021)
 	>2J: Final Models
 	>2K: Final Textures
 	>2L: Final Animations
 	>2M: Final Sounds + Music
->>Milestone 10: itch.io PC (4/16/2021)
+>>Milestone 9: itch.io PC (4/16/2021)
 	>3A: Gather all screenshots, info and media for itch.io
 	>3B: Publish on itch.io
->>Milestone 11: itch.io Android (4/18/2021)
+>>Milestone 10: itch.io Android (4/18/2021)
 	>3C: Test Android port on emulator
 	>3D: Test Android port tethered or sideloaded
 	>3E: Add APK to itch.io page
 
 Post-graduation update tasks:
 ---
+>>Milestone 11: Hub and Upgrades
+	>2G: Hub + Money Saving
+	>2H: Upgrades with in-game effects
+	>2I: Cosmetic Upgrades with placeholder models
 >>Milestone 12: Expanded controls
 	>4A: WASD/Controller support for gameplay
 	>4B: Controller support for menu and UI
