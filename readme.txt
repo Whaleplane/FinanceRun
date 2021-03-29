@@ -18,16 +18,14 @@ pTotalEarned = total money the player has earned
 vPayment = vehicle payment per-room
 ePayment = education payment per-room
 eIncrease = player salary increase per-room
+sQuality = video quality setting
 
 Tasks in progress:
 ---
 >>Milestone 6: Complete Menus (3/28/2021)
 	>2C: Options Menu
-		-Set video quality commands when each button is selected
-		-Save selected quality option and disable that button
 		-Query system to populate available resolution list
 		-Set resolution when selected
-		-Back button removes widget from screen
 	>2A: Main Menu
 		-Start game
 		-Options
@@ -107,3 +105,4 @@ Know Low Priority Issues:
 >>Stats HUD overlaps with popups
 >>Enemies float during popup
 >>Camera can sometimes overlap blocks and cause issues (make blocks around combat invisible, set player position on start)
+>>Audio setting does not save between sessions
