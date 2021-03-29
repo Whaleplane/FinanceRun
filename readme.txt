@@ -23,11 +23,6 @@ sQuality = video quality setting
 Tasks in progress:
 ---
 >>Milestone 6: Complete Menus (3/28/2021)
-	>2A: Main Menu
-		-Start game
-		-Options
-		-Quit
-		-Loading screen
 	>2B: Pause Menu
 		-Pause button on-screen
 		-Resume (set/check if game was already paused before unpausing)
@@ -58,10 +53,13 @@ Tasks to-do:
 	>2M: Final Sounds + Music
 >>Milestone 9: itch.io PC (4/16/2021)
 	>3A: Gather all screenshots, info and media for itch.io
+	>3F: Build game
 	>3B: Publish on itch.io
 >>Milestone 10: itch.io Android (4/18/2021)
+	>3G: Create separate branch for Android port
 	>3C: Test Android port on emulator
 	>3D: Test Android port tethered or sideloaded
+	>3F: Build game
 	>3E: Add APK to itch.io page
 
 Post-graduation update tasks:
