@@ -22,20 +22,6 @@ sQuality = video quality setting
 
 Tasks in progress:
 ---
->>Milestone 6: Complete Menus (3/28/2021)
-	>2E: Update UI text
-		-R/P/S rules on combat screen for reference
-		-Enemy name on screen during combat
-		-Color text shown on hit/miss during combat
-		-Rewrite all popup menu text:
-			-Show name of education on education menu
-			-Show potential salary increase on education menu
-				-Show (required) next to "Increase: 0" if education is required
-			-Show job name on intro popup
-			-Show additional salary increase on start popup
-			-Show per-room payments (vehicle, education) on popup
-	>2D: Add UI graphics
-		-Add black background to popups
 	
 Tasks to-do:
 ---
@@ -65,6 +51,9 @@ Post-graduation update tasks:
 	>2H: Upgrades with in-game effects
 	>2I: Cosmetic Upgrades with placeholder models
 	>2J: Confirm quit/main menu
+	>2K: R/P/S rules on combat screen for reference (K -> S -> P)
+	>2L: Color text shown on hit/miss during combat
+	>2D: Add UI graphics
 >>Milestone 12: Expanded controls
 	>4A: WASD/Controller support for gameplay
 	>4B: Controller support for menu and UI
@@ -91,11 +80,10 @@ Post-graduation update tasks:
 Known High Priority Issues:
 ---
 >>Player does not immediately lose game when going negative in combat
+>>Another enemy can attack player while player is already in combat
 
 Know Low Priority Issues:
 ---
->>Cursor type does not change to normal mouse when combat HUD appears 
->>Stats HUD overlaps with popups
->>Enemies float during popup
+>>Cursor type does not change to normal mouse when combat HUD appears
 >>Camera can sometimes overlap blocks and cause issues (make blocks around combat invisible, set player position on start)
 >>Audio setting does not save between sessions
