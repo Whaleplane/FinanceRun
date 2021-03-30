@@ -25,14 +25,11 @@ Tasks in progress:
 	
 Tasks to-do:
 ---
->>Milestone 7: Obstacle Adjustments (3/31/2021)
-	>2E: Obstacle Climbing
-	>2F: Obstacle Variety
 >>Milestone 8: Graphics and Sound (4/14/2021)
 	>2J: Final Models
 	>2K: Final Textures
-	>2L: Final Animations
 	>2M: Final Sounds + Music
+	>2L: Final Animations
 >>Milestone 9: itch.io PC (4/16/2021)
 	>3A: Gather all screenshots, info and media for itch.io
 	>3F: Build game
@@ -54,6 +51,8 @@ Post-graduation update tasks:
 	>2K: R/P/S rules on combat screen for reference (K -> S -> P)
 	>2L: Color text shown on hit/miss during combat
 	>2D: Add UI graphics
+	>2E: Obstacle Climbing
+	>2F: Obstacle Variety
 >>Milestone 12: Expanded controls
 	>4A: WASD/Controller support for gameplay
 	>4B: Controller support for menu and UI
