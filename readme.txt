@@ -25,16 +25,54 @@ Tasks in progress:
 	
 Tasks to-do:
 ---
->>Milestone 8: Graphics and Sound (4/14/2021)
+>>Milestone 8: Graphics and Sound (4/10/2021)
 	>2J: Final Models
-	>2K: Final Textures
+		-Player Character
+		-Player Weapon
+		-Enemy Character
+		-Enemy Weapon: Appliance Replacement
+		-Enemy Weapon: Car Insurance
+		-Enemy Weapon: Car Repairs
+		-Enemy Weapon: Electricity Bill
+		-Enemy Weapon: Flood Damage
+		-Enemy Weapon: Groceries
+		-Enemy Weapon: Heating Bill
+		-Enemy Weapon: Entertainment
+		-Enemy Weapon: Holiday Shopping
+		-Enemy Weapon: New Tires
+		-Enemy Weapon: Renovations
+		-Enemy Weapon: Roof Damage
+		-Enemy Weapon: Tank of Gas
+		-Enemy Weapon: Water Bill
+		-Exit Door
+		-Item Pickup
+		-Block Lower
+		-Block Upper
+		-Floor
+		-Random Block Lower
+		-Random Block Upper
+	>2K: Final Effects
+		-Fog/lighting
+		-Footstep dust
+		-Player attacking enemy
+		-Enemy attacking player
+		-Enemy being defeated
+		-Item pickup
 	>2M: Final Sounds + Music
 	>2L: Final Animations
->>Milestone 9: itch.io PC (4/16/2021)
+>>Milestone 9: Final Tweaks (4/14/2021)
+	>2N: R/P/S rules on combat screen for reference (K -> S -> P)
+	>2O: Color text shown on hit/miss during 
+	>2P: Bug fix: player losing game during combat if negative
+	>2Q: Bug fix: two enemies attacking player at once
+	>2R: Invisible surrounding blocks during combat
+	>2T: Show job name on intro
+	>2S: Final playthrough/numbers tweak
+>>Milestone 10: itch.io PC (4/16/2021)
 	>3A: Gather all screenshots, info and media for itch.io
 	>3F: Build game
 	>3B: Publish on itch.io
->>Milestone 10: itch.io Android (4/18/2021)
+>>Milestone 11: itch.io Android (4/18/2021)
 	>3G: Create separate branch for Android port
 	>3C: Test Android port on emulator
 	>3D: Test Android port tethered or sideloaded
@@ -46,10 +84,8 @@ Post-graduation update tasks:
 >>Milestone 11: Hub and Upgrades
 	>2G: Hub + Money Saving
 	>2H: Upgrades with in-game effects
-	>2I: Cosmetic Upgrades with placeholder models
+	>2I: Cosmetic Upgrades
 	>2J: Confirm quit/main menu
-	>2K: R/P/S rules on combat screen for reference (K -> S -> P)
-	>2L: Color text shown on hit/miss during combat
 	>2D: Add UI graphics
 	>2E: Obstacle Climbing
 	>2F: Obstacle Variety
