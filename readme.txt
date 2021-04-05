@@ -28,9 +28,6 @@ Tasks to-do:
 >>Milestone 8: Graphics and Sound
 	>2J: Final Models
 		4/4/2021 {
-		-Floor (fix import)
-		-Wall Block Lower
-		-Wall Block Upper
 		-Random Block Lower
 		-Random Block Upper
 		-Exit Door
