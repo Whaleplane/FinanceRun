@@ -27,12 +27,6 @@ Tasks to-do:
 ---
 >>Milestone 8: Graphics and Sound
 	>2J: Final Models
-		4/4/2021 {
-		-Random Block Lower
-		-Random Block Upper
-		-Exit Door
-		-Item Pickup
-		}
 		4/5/2021 {
 		-Enemy Weapon: Appliance Replacement
 		-Enemy Weapon: Car Insurance
