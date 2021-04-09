@@ -27,76 +27,75 @@ Tasks to-do:
 ---
 >>Milestone 8: Graphics and Sound
 	>2J: Final Models
-		4/5/2021 {
-		-Enemy Weapon: Appliance Replacement
-		-Enemy Weapon: Car Insurance
-		-Enemy Weapon: Car Repairs
+		4/7/2021 {
 		-Enemy Weapon: Electricity Bill
+		-Enemy Weapon: Heating Bills
+		-Enemy Weapon: Water Bill
+		-Enemy Weapon: Car Insurance
+		-Enemy Weapon: New Tires
+		-Enemy Weapon: Appliance Replacement
+		-Enemy Weapon: Car Repairs
 		-Enemy Weapon: Flood Damage
 		-Enemy Weapon: Groceries
-		-Enemy Weapon: Heating Bills
 		-Enemy Weapon: Entertainment
 		-Enemy Weapon: Holiday Shopping
-		-Enemy Weapon: New Tires
 		-Enemy Weapon: Renovations
 		-Enemy Weapon: Roof Damage
 		-Enemy Weapon: Tank of Gas
-		-Enemy Weapon: Water Bill
-		}
-		4/6/2021 {
-		-Player Weapon
-		-Player Character
-		-Enemy Character
-		}
-	>2K: Final Effects
-		4/7/2021 {
-		-Fog/lighting (incl. final lighting build in all levels)
 		}
 		4/8/2021 {
+		-Player Weapon
+		-Player Character
+		}
+	>2K: Final Effects
+		4/9/2021 {
+		-Fog/lighting (incl. final lighting build in all levels)
+		}
+		4/10/2021 {
 		-Footstep dust
 		-Player attacking enemy
 		-Enemy attacking player
 		-Enemy being defeated
 		-Item pickup
 		}
-	4/9/2021 {
+	4/11/2021 {
 	>2M: Final Sounds + Music
 	}
-	4/10/2021 {
+	4/12/2021 {
 	>2L: Final Animations
 	}
 >>Milestone 9: Final Tweaks 
-	4/11/2021 {
+	4/13/2021 {
 	>2V: Pause button icon
 	>2N: R/P/S rules on combat screen for reference (K -> S -> P)
 	>2O: Color text shown on hit/miss during 
 	>2P: Bug fix: player losing game during combat if negative
 	>2Q: Bug fix: two enemies attacking player at once
 	}
-	4/12/2021 {
+	4/14/2021 {
 	>2R: Invisible surrounding blocks during combat
 	>2T: Show job name on intro
 	>2S: Final playthrough/numbers tweak
 	>2U: Level # and preparation increase shown for cars
 	}
-4/13/2021 {
+4/15/2021 {
 >>Milestone 10: itch.io PC
 	>3A: Gather all screenshots, info and media for itch.io
 	>3F: Build game
 	>3B: Publish on itch.io
 }
 >>Milestone 11: itch.io Android
-	4/14/2021 {
+	4/16/2021 {
 	>3G: Create separate branch for Android port
 	>3C: Test Android port on emulator
 	}
-	4/15/2021 {
+	4/17/2021 {
 	>3D: Test Android port tethered or sideloaded
 	>3F: Build game
 	>3E: Add APK to itch.io page
 	}
 
-4/16/2021 {
+4/23/2021 {
 >>Update and submit paper
 }
 
