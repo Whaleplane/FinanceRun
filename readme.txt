@@ -28,24 +28,23 @@ Tasks to-do:
 >>Milestone 8: Graphics and Sound
 	>2J: Final Models
 		4/7/2021 {
-		-Enemy Weapon: Electricity Bill
-		-Enemy Weapon: Heating Bills
+		-Enemy Weapon: Heating Bill
 		-Enemy Weapon: Water Bill
-		-Enemy Weapon: Car Insurance
+		-Enemy Weapon: Car Insurance (bill)
 		-Enemy Weapon: New Tires
-		-Enemy Weapon: Appliance Replacement
-		-Enemy Weapon: Car Repairs
-		-Enemy Weapon: Flood Damage
-		-Enemy Weapon: Groceries
-		-Enemy Weapon: Entertainment
-		-Enemy Weapon: Holiday Shopping
-		-Enemy Weapon: Renovations
-		-Enemy Weapon: Roof Damage
-		-Enemy Weapon: Tank of Gas
+		-Enemy Weapon: Appliance Replacement (stove)
+		-Enemy Weapon: Car Repairs (engine)
+		-Enemy Weapon: Flood Damage (roof w/ wall and window in water pool)
+		-Enemy Weapon: Groceries (paper bag with bread and lettuce)
+		-Enemy Weapon: Entertainment (game controller)
+		-Enemy Weapon: Holiday Shopping (wrapped present)
+		-Enemy Weapon: Renovations (hammer and paint)
+		-Enemy Weapon: Roof Damage (shingled roof with hole)
+		-Enemy Weapon: Tank of Gas (jerry can)
 		}
 		4/8/2021 {
-		-Player Weapon
-		-Player Character
+		-Player Weapon (sword)
+		-Player Character (knight)
 		}
 	>2K: Final Effects
 		4/9/2021 {
