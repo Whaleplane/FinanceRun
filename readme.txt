@@ -28,9 +28,6 @@ Tasks to-do:
 >>Milestone 8: Graphics and Sound
 	>2J: Final Models
 		4/7/2021 {
-		-Enemy Weapon: Appliance Replacement (stove)
-		-Enemy Weapon: Car Repairs (engine)
-		-Enemy Weapon: Flood Damage (roof w/ wall and window in water pool)
 		-Enemy Weapon: Groceries (paper bag with bread and lettuce)
 		-Enemy Weapon: Entertainment (game controller)
 		-Enemy Weapon: Holiday Shopping (wrapped present)
