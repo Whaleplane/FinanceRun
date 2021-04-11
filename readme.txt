@@ -28,10 +28,6 @@ Tasks to-do:
 >>Milestone 8: Graphics and Sound
 	>2J: Final Models
 		4/7/2021 {
-		-Enemy Weapon: Heating Bill
-		-Enemy Weapon: Water Bill
-		-Enemy Weapon: Car Insurance (bill)
-		-Enemy Weapon: New Tires
 		-Enemy Weapon: Appliance Replacement (stove)
 		-Enemy Weapon: Car Repairs (engine)
 		-Enemy Weapon: Flood Damage (roof w/ wall and window in water pool)
