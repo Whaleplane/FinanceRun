@@ -20,17 +20,9 @@ ePayment = education payment per-room
 eIncrease = player salary increase per-room
 sQuality = video quality setting
 
-Tasks in progress:
----
-	
-Tasks to-do:
----
+Tasks
+------
 >>Milestone 8: Graphics and Sound
-	>2J: Final Models
-		4/12/2021 {
-		-Player Weapon (sword)
-		-Player Character (knight)
-		}
 	>2K: Final Effects
 		4/12/2021 {
 		-Footstep dust
