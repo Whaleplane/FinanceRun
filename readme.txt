@@ -25,12 +25,12 @@ Tasks
 >>Milestone 8: Graphics and Sound
 	>2K: Final Effects
 		4/12/2021 {
+		-Fog/lighting (incl. final lighting build in all levels)
 		-Footstep dust
 		-Player attacking enemy
 		-Enemy attacking player
 		-Enemy being defeated
 		-Item pickup
-		-Fog/lighting (incl. final lighting build in all levels)
 		}
 	4/13/2021 {
 	>2M: Final Sounds + Music
