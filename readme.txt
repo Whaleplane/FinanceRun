@@ -23,15 +23,6 @@ sQuality = video quality setting
 Tasks
 ------
 >>Milestone 8: Graphics and Sound
-	>2K: Final Effects
-		4/14/2021 {
-		-Fog/lighting (incl. final lighting build in all levels)
-		-Footstep dust
-		-Player attacking enemy
-		-Enemy attacking player
-		-Enemy being defeated
-		-Item pickup
-		}
 	4/15/2021 {
 	>2M: Final Sounds + Music
 	>2L: Player attack/damaged animation
@@ -55,15 +46,12 @@ Tasks
 	>3F: Build game
 	>3B: Publish on itch.io
 >>Milestone 11: itch.io Android
-	4/17/2021 {
 	>3G: Create separate branch for Android port
 	>3C: Test Android port on emulator
-	}
-	4/18/2021 {
 	>3D: Test Android port tethered or sideloaded
 	>3F: Build game
 	>3E: Add APK to itch.io page
-	}
+ }
 
 	
 Known High Priority Issues:
