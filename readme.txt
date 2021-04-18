@@ -22,10 +22,6 @@ sQuality = video quality setting
 Tasks
 ------
 >>Milestone 9: Final Tweaks
-	>2V: Pause button icon
-	>2T: Show job name on intro
-	>2P: Bug fix: player losing game during combat if negative
-	>2Q: Bug fix: two enemies attacking player at once
 	>2R: Invisible surrounding blocks during combat
 	>2S: Final playthrough/numbers tweak
 >>Milestone 10: itch.io PC
