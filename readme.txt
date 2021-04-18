@@ -22,7 +22,6 @@ sQuality = video quality setting
 Tasks
 ------
 >>Milestone 9: Final Tweaks
-	>2R: Invisible surrounding blocks during combat
 	>2S: Final playthrough/numbers tweak
 >>Milestone 10: itch.io PC
 	>3A: Gather all screenshots, info and media for icon/splash/itch.io
@@ -41,8 +40,11 @@ Tasks
 
 Known High Priority Issues:
 ---
->>Player does not immediately lose game when going negative in combat
->>Another enemy can attack player while player is already in combat
+>>Audio volume non-functional
+>>Attack button does not re-enable if clicked while disabled
+>>Hole in the floor around level 4 (?)
+>>Add "% (Fixed)" after 5 to interest rate in education
+>>Order of operations not correct: need to add ALL money before removing any at beginning
 
 Know Low Priority Issues:
 ---
