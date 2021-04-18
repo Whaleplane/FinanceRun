@@ -6,7 +6,6 @@ Engine: Unreal Engine 4 (4.24.3)
 
 -----------------------------------------------------------------------------
 
-Current stage: working on minimum viable product
 All milestones must be completed by 4/18/2021
 
 Data being saved:
@@ -25,7 +24,6 @@ Tasks
 >>Milestone 8: Graphics and Sound
 	4/15/2021 {
 	>2M: Final Sounds + Music
-	>2L: Player attack/damaged animation
 	}
 >>Milestone 9: Final Tweaks
 	4/16/2021 {
@@ -42,8 +40,12 @@ Tasks
 	}
 4/18/2021 {
 >>Milestone 10: itch.io PC
-	>3A: Gather all screenshots, info and media for itch.io
+	>3A: Gather all screenshots, info and media for icon/splash/itch.io
 	>3F: Build game
+		-Sign game file
+		-Insert icon
+		-Insert splash screen
+		-Build
 	>3B: Publish on itch.io
 >>Milestone 11: itch.io Android
 	>3G: Create separate branch for Android port
